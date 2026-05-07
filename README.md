@@ -1,0 +1,1 @@
+These are the Jupyter notebook scripts for fine-tuning RoBERTa-baseline using a dataset of 284k phishing and safe emails. These scripts include a testing and comparison of results from a test dataset. A total of 5 models are tested and results are compared
